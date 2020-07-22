@@ -1,7 +1,7 @@
-HELLO EVERYONE!!
+<h1>HELLO EVERYONE!!
 <br>
 I am Saurabh Zingade.
-<br>
+<br></h1>
 You can connect with me on the following social media  😊 
 
 <a href="https://www.linkedin.com/in/saurabhzingade/">
