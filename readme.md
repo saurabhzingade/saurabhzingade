@@ -1,7 +1,6 @@
 <h1>HELLO EVERYONE!!
 <br>
 I am Saurabh Zingade.
-
 <br></h1>
 <hr>
 You can connect with me on the following social media  😊 
