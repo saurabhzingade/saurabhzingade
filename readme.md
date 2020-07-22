@@ -2,7 +2,7 @@ HELLO EVERYONE!!
 <br>
 I am Saurabh Zingade.
 <br>
-You can connect with me on the following social media 😊 
+You can connect with me on the following social media  😊 
 
 <a href="https://www.linkedin.com/in/saurabhzingade/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
