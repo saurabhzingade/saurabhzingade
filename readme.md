@@ -6,7 +6,7 @@ I am Saurabh Zingade.
 
 <h4>You can connect with me on the following social media  😊 <h4>
 <br>
- <img src = "https://raw.githubusercontent.com/saurabhzingade/saurabhzingade.github.io/master/assets/f.jpeg">
+
 <a href="https://www.linkedin.com/in/saurabhzingade/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
