@@ -5,8 +5,6 @@ I am Saurabh Zingade.
 <hr>
 <h4>You can connect with me on the following social media  😊 <h4>
 <br>
-<br>
-
 <a href="https://www.linkedin.com/in/saurabhzingade/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
