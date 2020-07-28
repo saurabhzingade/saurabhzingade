@@ -16,3 +16,5 @@ I am Saurabh Zingade.
 <a href="https://www.instagram.com/iamszing/">
   <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<B> A Computer Undergraduate!</B>
