@@ -3,6 +3,8 @@
 I am Saurabh Zingade.
 <br></h1>
 <hr>
+Here is a random picture of me
+![](dp.jpeg)
 <h4>You can connect with me on the following social media  😊 <h4>
 <br>
 <a href="https://www.linkedin.com/in/saurabhzingade/">
