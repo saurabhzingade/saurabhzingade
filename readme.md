@@ -17,6 +17,6 @@ I am Saurabh Zingade.
   <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br><br>
-<B> A Computer Undergraduate!</B>
+<B> A Software Engineer!</B>
 <br>
 <h3><i> I have a deep interest in Machine learning and deep Learning! </i><?h3>
