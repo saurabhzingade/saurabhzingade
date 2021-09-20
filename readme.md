@@ -1,6 +1,6 @@
 <h1>HELLO EVERYONE!!
 <br>
-I am Saurabh Zingade.
+I am Saurabh Zingade. <img align="left" alt="LOGO" width="20px" src="szlogo.jpg" />
 <br></h1>
 <hr>
 
