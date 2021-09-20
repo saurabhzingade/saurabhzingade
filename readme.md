@@ -8,14 +8,17 @@ I am Saurabh Zingade. <img align="right" alt="LOGO" width="100px" height="100px"
 <br>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<a href="https://www.linkedin.com/in/saurabhzingade/">
+<a href="https://www.linkedin.com/in/saurabhzingade/" target="_blank">
   <img align="left" alt="My LinkdeIN" width="20px" src="linkedin.png" />
 </a>
-<a href="https://twitter.com/Iamsz7">
-  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Iamsz7" target="_blank">
+  <img align="left" alt="My Twitter" width="20px" src="twitter.png" />
 </a>
-<a href="https://www.instagram.com/iamszing/">
-  <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/iamszing/" target="_blank">
+  <img align="left" alt="My Instagram" width="20px" src="instagram.png" />
+</a>
+  <a href="https://www.facebook.com/profile.php?id=100001453246006" target="_blank">
+  <img align="left" alt="My Facebook" width="20px" src="facebook.png" />
 </a>
 <br><br>
 <B> A Software Engineer!</B>
