@@ -12,7 +12,7 @@ I am Saurabh Zingade.
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Iamsz7">
-  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="My Twitter" width="20px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftwitter&psig=AOvVaw2Hb51cMg9RcngLFmYQQT_L&ust=1632225028074000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLC8lJq-jfMCFQAAAAAdAAAAABAD" />
 </a>
 <a href="https://www.instagram.com/iamszing/">
   <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
