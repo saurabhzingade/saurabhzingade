@@ -25,3 +25,5 @@ I am Saurabh Zingade. <img align="right" alt="LOGO" width="100px" height="100px"
 <br>
 <h3><i> I have a deep interest in Machine learning and deep Learning! </i><?h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhzingade)](https://github.com/anuraghazra/github-readme-stats)
+
