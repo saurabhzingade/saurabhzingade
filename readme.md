@@ -25,4 +25,4 @@ I am Saurabh Zingade. <img align="right" alt="LOGO" width="100px" height="100px"
 <br>
 <h3><i> I have a deep interest in Machine learning and deep Learning! </i><?h3>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saurabhzingade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
