@@ -4,7 +4,7 @@ I am Saurabh Zingade. <img align="right" alt="LOGO" width="100px" height="100px"
 <br></h1>
 <hr>
 
-<h4>You can connect with me on the following social media  😊 <h4>
+<h4>You can connect with me on the following social media   <h4>
 <br>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
