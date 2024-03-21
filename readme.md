@@ -23,7 +23,6 @@ I am Saurabh Zingade. <img align="right" alt="LOGO" width="100px" height="100px"
 <br><br>
 <B> A Software Engineer!</B>
 <br>
-<h3><i> I have a deep interest in Machine learning and deep Learning! </i><?h3>
 <br>
 <h3>Following are my stats! 😅 <br><hr>
 
