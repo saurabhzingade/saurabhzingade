@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Saurabh's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&count_private=true&theme=tokyonight" alt="Saurabh's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
