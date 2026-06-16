@@ -3,34 +3,30 @@
   <img align="right" alt="LOGO" width="100px" height="100px" src="szlogo.jpg" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer building things that matter 🚀</h3>
+<h3 align="center">Software Engineer — building things that matter 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
-<hr>
-
-<h3>🌐 Connect with me</h3>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p>
-<a href="https://www.linkedin.com/in/saurabhzingade/" target="_blank">
-  <img align="left" alt="My LinkdeIN" width="20px" src="linkedin.png" />
-</a>
-<a href="https://twitter.com/Iamsz7" target="_blank">
-  <img align="left" alt="My Twitter" width="20px" src="twitter.png" />
-</a>
-<a href="https://www.instagram.com/iamszing/" target="_blank">
-  <img align="left" alt="My Instagram" width="20px" src="instagram.png" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100001453246006" target="_blank">
-  <img align="left" alt="My Facebook" width="20px" src="facebook.png" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabhzingade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Iamsz7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/iamszing/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100001453246006" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhzingade&label=Profile%20views&color=70A5FD&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -45,17 +41,17 @@
 
 ### 🛠️ Tech Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,git,docker,aws,linux,mysql&perline=5" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,git,docker,aws,linux,mysql&perline=5" alt="Tech stack" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Saurabh's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Saurabh's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -68,8 +64,20 @@
 
 ---
 
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhzingade&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhzingade&theme=tokyo-night&include_all_activity=true&hide_border=true" alt="Activity Graph" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saurabhzingade/saurabhzingade/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+---
 
 <p align="center"><i>⭐️ Thanks for stopping by — let's build something great together!</i></p>
