@@ -1,83 +1,85 @@
-<h1 align="center">
-  Hi there, I'm Saurabh Zingade 👋
-  <img align="right" alt="LOGO" width="100px" height="100px" src="szlogo.jpg" />
-</h1>
+<!-- Improved README for Saurabh Zingade -->
 
-<h3 align="center">Software Engineer — building things that matter 🚀</h3>
+<h1 align="center">Saurabh Zingade — Software Engineer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+  Building reliable software and delightful developer experiences. Focused on backend systems, APIs, and automation.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurabhzingade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Iamsz7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/iamszing/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100001453246006" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhzingade&label=Profile%20views&color=70A5FD&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/saurabhzingade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Iamsz7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://github.com/saurabhzingade" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 🧰 About Me
+## About
 
-- 🔭 I'm currently working as a **Software Engineer**
-- 🌱 I'm always learning something new and sharpening my craft
-- 💬 Ask me about software development, engineering, and tech
-- ⚡ Fun fact: I love turning ideas into working code
+I design and implement backend services and APIs that scale. I enjoy solving hard problems, automating repetitive work, and contributing to open-source tools that help teams move faster.
 
----
+Quick highlights:
 
-### 🛠️ Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,git,docker,aws,linux,mysql&perline=5" alt="Tech stack" />
-</p>
+- Experience building production services and integrations.
+- Comfortable with Python, Java, JavaScript/Node.js, and cloud platforms (AWS).
+- Passionate about clean code, testing, and observability.
 
 ---
 
-### 📊 GitHub Stats
+## Core Skills
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&count_private=true&theme=tokyonight" alt="Saurabh's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhzingade&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhzingade&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,docker,kubernetes,aws,git,postgres&perline=6" alt="Tech stack"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
+## Featured Projects
+
+- **Project Name** — short one-line description of what it does and the impact (link to repository). Replace with your top repos.
+- **Project Name** — short one-line description; highlight tech used and a measurable outcome.
+
+Tip: Use this section to showcase 3–5 projects with 1–2 lines each and a link to the repo or demo.
+
+---
+
+## How I Work
+
+- I value clarity: good README, API docs, and tests.
+- I prefer incremental delivery and frequent feedback loops.
+- Open to collaboration, mentoring, and code reviews.
+
+---
+
+## Get In Touch
+
+- LinkedIn: https://www.linkedin.com/in/saurabhzingade/
+- Twitter: https://twitter.com/Iamsz7
+- Email: add-your-email@example.com (replace with your contact)
+
+Want to work together? Send a quick message — I respond faster to clear project descriptions.
+
+---
+
+## GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhzingade&theme=tokyo-night&include_all_activity=true&hide_border=true" alt="Activity Graph" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saurabhzingade&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhzingade&langs_count=8&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhzingade&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## Next steps / Suggestions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saurabhzingade/saurabhzingade/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
+1. Replace the placeholder project lines with links to your top repos and a one-sentence impact note.
+2. Add a downloadable resume or link to your personal site if you have one.
+3. (Optional) Add short testimonials or notable achievements (talks, certifications).
 
 ---
 
-<p align="center"><i>⭐️ Thanks for stopping by — let's build something great together!</i></p>
+<p align="center"><i>Thanks for visiting — let's build something meaningful together.</i></p>
